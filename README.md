@@ -8,7 +8,7 @@ Breakout Tutorial Game for a class project related to Unity Game Programming.
 
 [D / →] - Move Right
 
-[Left-Mouse Button] - Release ball from paddle
+[Left-Mouse Button / CTRL] - Release ball from paddle
 
 # Unity Version
 
